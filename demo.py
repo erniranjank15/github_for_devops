@@ -1,0 +1,1 @@
+print("NK is King")
